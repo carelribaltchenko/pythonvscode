@@ -122,3 +122,5 @@ def last_voy(mot):
         if i in voy:
             last = 1
     return last
+
+print(1+1)
